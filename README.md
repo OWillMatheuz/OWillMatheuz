@@ -7,7 +7,8 @@
 )](https://instagram.com/willmatheuz)
 
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=OWillMatheuz&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviomatheus07)](https://github.com/otaviomatheus07/github-readme-stats)
+
+![OWillMatheuz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OWillMatheuz&layout=compact)
 
 ### Tecnologia em desenvolvimento
 #### Bora Zé Tech | Generation | Zé Delivery
